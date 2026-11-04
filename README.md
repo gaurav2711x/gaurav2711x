@@ -8,6 +8,7 @@
 <img src="./banner1.png" width="100%" alt="Gaurav Sharma - AI/ML Developer Banner"/>
 
 <br/>
+</div>
 <div align="center">
 
 # Hey, I'm Gaurav Sharma 👋
@@ -122,7 +123,11 @@ I'm passionate about building intelligent applications, exploring emerging techn
 </a>
 
 <!-- Add your LinkedIn profile URL here -->
+<a href="https://www.linkedin.com/in/gaurav-sharma-08b666384/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
+<!-- Add your portfolio URL here -->
 <!-- Add your portfolio URL here -->
 
 </div>
